@@ -1,0 +1,16 @@
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\bin\Debug\income_and_expense_tracker.exe.config
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\bin\Debug\income_and_expense_tracker.exe
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\bin\Debug\income_and_expense_tracker.pdb
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.csproj.AssemblyReference.cache
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.Form1.resources
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.Properties.Resources.resources
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.csproj.GenerateResource.cache
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.exe
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.pdb
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.Register.resources
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.Mainform.resources
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.category.resources
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.Dashboard.resources
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.Income.resources
+D:\C#_Projects\Basic\income_and_expense_tracker\income_and_expense_tracker\obj\Debug\income_and_expense_tracker.Expences.resources
